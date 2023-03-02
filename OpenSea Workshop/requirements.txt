@@ -1,0 +1,16 @@
+urllib3
+requests
+psutil
+pillow
+pyqt6
+pyqt6-qt6
+pyqt6-sip
+bottle
+future
+pyparsing
+gevent
+greenlet
+colorama==0.4.5
+selenium==4.5.0
+webdriver-manager==3.5.4
+eel>=0.15.3

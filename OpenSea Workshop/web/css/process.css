@@ -1,0 +1,1 @@
+.consoles{display:flex;flex-direction:row;max-width:100%;overflow-x:auto}.wrapper-console{min-width:min(90%,420px)}.wrapper-console+.wrapper-console{margin-left:12px}.wrapper-console:first-of-type:only-child{min-width:100%}.title>h2>sup{font-style:italic}
